@@ -1,0 +1,1 @@
+Simple Script to move lost ark character around and press random buttons to avoid afk kick
